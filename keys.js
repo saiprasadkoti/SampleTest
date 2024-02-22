@@ -1,1 +1,1 @@
-const testKey = "12345678";
+const testKey = "12";
