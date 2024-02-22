@@ -1,1 +1,1 @@
-const testKey = "BCDH123444433222212#$$$";
+const testKey = BCDH123444433222212#$$$;
