@@ -1,1 +1,3 @@
-const testKey = 1234;
+const keysData = {
+ testKey : 1234 
+};
